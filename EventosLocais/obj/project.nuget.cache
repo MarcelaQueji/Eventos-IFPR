@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4iaQ5ADfaWuGWJ9+NjMs1xlp78gNiggvVEuIihtCE3/8bg74Yk2AsyOEBCqfAj2VKLzCJ9OAaeQEGhWsF89IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Eventos-IFPR\\EventosLocais\\EventosLocais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
